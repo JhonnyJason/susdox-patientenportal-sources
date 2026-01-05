@@ -1,0 +1,3 @@
+[submodule "templatized/artifacts0"]
+	path = templatized/artifacts0
+	url = git@github.com:JhonnyJason/templatized-artifacts-patientenportal.git
